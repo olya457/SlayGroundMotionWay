@@ -1,4 +1,4 @@
-package com.slaygroundmotionway
+package com.slay.ground.motion.way
 
 import android.app.Application
 import com.facebook.react.PackageList
