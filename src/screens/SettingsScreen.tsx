@@ -46,9 +46,9 @@ export default function SettingsScreen() {
 
   const onShare = () => {
     Share.share({
-      title: 'Slay Ground Motion Way',
+      title: 'TO City TO Motion Guide',
       message:
-        'Slay Ground Motion Way — offline guide with sports places, routes and daily facts. All data stays on your device.',
+        'TO City TO Motion Guide — offline guide with sports places, routes and daily facts. All data stays on your device.',
     });
   };
 
@@ -106,7 +106,7 @@ export default function SettingsScreen() {
             <View style={styles.aboutTop}>
               <View style={{ flex: 1, paddingRight: 12 }}>
                 <Text style={[styles.aboutP, { lineHeight: S.pLine, marginBottom: 0 }]}>
-                  Slay Ground Motion Way is a sports tour guide in Kanawha, created for those who live on the move.
+                  TO City TO Motion Guide is a sports tour guide in Kanawha, created for those who live on the move.
                 </Text>
               </View>
 
@@ -175,7 +175,7 @@ const styles = StyleSheet.create({
   row: {
     backgroundColor: 'rgba(12,12,12,0.92)',
     borderWidth: 1,
-    borderColor: '#D0453B',
+    borderColor: '#BB7C0F',
     paddingHorizontal: 18,
     flexDirection: 'row',
     alignItems: 'center',
@@ -187,7 +187,7 @@ const styles = StyleSheet.create({
     width: 48,
     height: 48,
     borderRadius: 14,
-    backgroundColor: 'rgba(210,75,58,0.9)',
+    backgroundColor: 'rgba(142, 105, 18, 0.9)',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -195,7 +195,7 @@ const styles = StyleSheet.create({
   toggleWrap: { flexDirection: 'row', alignItems: 'center', gap: 10 },
   toggleTxt: { color: '#fff', fontWeight: '700' },
   aboutTitle: { color: '#fff', fontWeight: '800', marginTop: 10, marginBottom: 10 },
-  aboutCard: { backgroundColor: 'rgba(12,12,12,0.92)', borderWidth: 1, borderColor: '#D0453B' },
+  aboutCard: { backgroundColor: 'rgba(12,12,12,0.92)', borderWidth: 1, borderColor: '#BB7C0F' },
   aboutTop: { flexDirection: 'row', alignItems: 'flex-start' },
   aboutP: { color: '#E8E8E8', marginBottom: 10 },
   logoWrap: {
@@ -205,7 +205,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  shareBtn: { marginTop: 14, backgroundColor: '#D24B3A', alignItems: 'center', justifyContent: 'center' },
+  shareBtn: { marginTop: 14, backgroundColor: '#BB7C0F', alignItems: 'center', justifyContent: 'center' },
   shareIcon: { color: '#fff', fontWeight: '800' },
   curtain: { position: 'absolute', bottom: 0, left: 0, right: 0 },
 });

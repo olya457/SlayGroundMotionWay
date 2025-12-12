@@ -29,7 +29,7 @@ const SLIDES = [
     img: require('../assets/onb1.png'),
     title: 'Hello from\nMei Lin',
     text:
-      "Hello! I'm Mei Lin, your guide at Slay Ground. Together we'll explore the sporting venues of Kanawha — from the fields to the stadiums, where you can feel the real energy of movement.",
+      "Hello! I'm Mei Lin, your guide at TO City TO Motion Guide. Together we'll explore the sporting venues of Kanawha — from the fields to the stadiums, where you can feel the real energy of movement.",
     cta: 'Hello, Mei',
   },
   {
@@ -223,7 +223,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     width: '92%',
     borderRadius: 26,
-    backgroundColor: '#D24B3A',
+    backgroundColor: '#bb7c0fff',
     alignItems: 'center',
     justifyContent: 'center',
   },

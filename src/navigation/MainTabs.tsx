@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
     borderRadius: 40,
     backgroundColor: '#000000',
     borderWidth: 2,
-    borderColor: '#761813ff',
+    borderColor: '#bb7c0fff',
     paddingHorizontal: 8,
   },
   shadowIOS: {

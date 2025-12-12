@@ -182,7 +182,7 @@ const styles = StyleSheet.create({
     width: 48,
     height: 48,
     borderRadius: 16,
-    backgroundColor: 'rgba(210,75,58,0.85)',
+    backgroundColor: 'rgba(159, 115, 20, 0.85)',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -196,7 +196,7 @@ const styles = StyleSheet.create({
     width: 48,
     height: 48,
     borderRadius: 16,
-    backgroundColor: 'rgba(210,75,58,0.85)',
+    backgroundColor: 'rgba(155, 117, 26, 0.85)',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -214,7 +214,7 @@ const styles = StyleSheet.create({
     padding: IS_SMALL ? 20 : 26,
     borderRadius: 30,
     borderWidth: 1,
-    borderColor: '#7a2b25',
+    borderColor: '#bb7c0fff',
   },
 
   title: {
@@ -240,7 +240,7 @@ const styles = StyleSheet.create({
     padding: 22,
     borderRadius: 30,
     borderWidth: 1,
-    borderColor: '#7a2b25',
+    borderColor: '#bb7c0fff',
   },
 
   mapTitle: {
@@ -271,7 +271,7 @@ const styles = StyleSheet.create({
     width: IS_SMALL ? 58 : 66,
     height: IS_SMALL ? 58 : 66,
     borderRadius: 20,
-    backgroundColor: 'rgba(210,75,58,0.85)',
+    backgroundColor: 'rgba(155, 110, 20, 0.85)',
     alignItems: 'center',
     justifyContent: 'center',
   },

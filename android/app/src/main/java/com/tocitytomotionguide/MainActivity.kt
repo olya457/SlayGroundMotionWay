@@ -1,4 +1,4 @@
-package com.slay.ground.motion.way
+package com.tocitytomotionguide
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

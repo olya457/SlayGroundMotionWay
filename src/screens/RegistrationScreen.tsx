@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
     paddingTop: 18,
     paddingBottom: 16,
     borderWidth: 1,
-    borderColor: '#D0453B',
+    borderColor: '#BB7C0F',
     shadowColor: '#000',
     shadowOpacity: 0.35,
     shadowRadius: 12,
@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
 
   photoBox: {
     borderWidth: 1,
-    borderColor: '#D0453B',
+    borderColor: '#bb7c0fff',
     borderRadius: 18,
     padding: 10,
     alignSelf: 'flex-start',
@@ -176,7 +176,7 @@ const styles = StyleSheet.create({
   photo: { width: '100%', height: '100%' },
 
   addWrap: { flex: 1, alignItems: 'center', justifyContent: 'center' },
-  addIcon: { color: '#D24B3A', fontSize: 34, marginBottom: 6 },
+  addIcon: { color: '#bb7c0fff', fontSize: 34, marginBottom: 6 },
   addText: { color: '#C9C9C9' },
 
   btn: {
@@ -184,7 +184,7 @@ const styles = StyleSheet.create({
     width: '92%',
     minHeight: 52,
     borderRadius: 26,
-    backgroundColor: '#D24B3A',
+    backgroundColor: '#bb7c0fff',
     alignItems: 'center',
     justifyContent: 'center',
     marginTop: 8,

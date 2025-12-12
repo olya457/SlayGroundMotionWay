@@ -261,7 +261,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(12,12,12,0.92)',
     paddingBottom: 16,
     borderWidth: 1,
-    borderColor: '#D0453B',
+    borderColor: '#bb7c0fff',
     shadowColor: '#000',
     shadowOpacity: 0.35,
     shadowRadius: 12,
@@ -272,7 +272,7 @@ const styles = StyleSheet.create({
   photoBox: {
     alignSelf: 'center',
     borderWidth: 1,
-    borderColor: '#D0453B',
+    borderColor: '#bb7c0fff',
     marginBottom: 18,
   },
   photoInner: {
@@ -286,7 +286,7 @@ const styles = StyleSheet.create({
     position: 'absolute',
     right: 14,
     bottom: 14,
-    backgroundColor: '#D24B3A',
+    backgroundColor: '#bb7c0fff',
     alignItems: 'center',
     justifyContent: 'center',
     borderWidth: 1,
@@ -295,7 +295,7 @@ const styles = StyleSheet.create({
   badgeIcon: { color: '#fff', fontSize: 18, fontWeight: '800' },
 
   addWrap: { flex: 1, alignItems: 'center', justifyContent: 'center' },
-  addIcon: { color: '#D24B3A', fontSize: 34, marginBottom: 6 },
+  addIcon: { color: '#bb7c0fff', fontSize: 34, marginBottom: 6 },
   addText: { color: '#C9C9C9' },
 
   nameRow: { flexDirection: 'row', alignItems: 'center', gap: 10, marginTop: 6 },
@@ -322,14 +322,14 @@ const styles = StyleSheet.create({
   },
 
   editBtn: {
-    backgroundColor: '#D24B3A',
+    backgroundColor: '#bb7c0fff',
     alignItems: 'center',
     justifyContent: 'center',
   },
   editIcon: { color: '#fff', fontSize: 18, fontWeight: '800' },
 
   saveBtn: {
-    backgroundColor: '#D24B3A',
+    backgroundColor: '#bb7c0fff',
     alignItems: 'center',
     justifyContent: 'center',
   },

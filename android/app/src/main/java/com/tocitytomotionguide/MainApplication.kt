@@ -1,4 +1,4 @@
-package com.slay.ground.motion.way
+package com.tocitytomotionguide
 
 import android.app.Application
 import com.facebook.react.PackageList

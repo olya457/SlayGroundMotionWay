@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.slay.ground.motion.way"
+    namespace "com.tocitytomotionguide"
     defaultConfig {
-        applicationId "com.slay.ground.motion.way"
+        applicationId "com.tocitytomotionguide"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
